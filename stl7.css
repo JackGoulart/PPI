@@ -1,0 +1,17 @@
+body{
+  background-color: #f1c40f;
+}
+
+.round{
+  border-radius: 12px;
+}
+.titulo{
+  background-color: #e67e22;
+  color:#3498db ;
+  padding: 0.1em;
+}
+.caixa{
+  background-color: #264968;
+  color: #CBD9E4;
+  padding-left: 5px;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: #e74c3c; 
+}
+div{
+  float: left;
+  margin-left: 1em;
+  width: 135px;
+}
+
+.web{
+  border: solid 1px black;
+}
+.mobile{
+  border: solid 1px black;
+}
