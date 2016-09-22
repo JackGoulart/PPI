@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  font-family:Courier new;
+}
+h2,p,div{
+  font-family:Courier new;
+}
+body{
+  background-color: #e74c3c;
+}
