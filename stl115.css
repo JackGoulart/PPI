@@ -1,0 +1,5 @@
+#borda{
+  width: 400px;
+  border: 2px solid blue;
+  border-radius: 10px 5% 20px 3%;
+}

@@ -1,0 +1,13 @@
+ul{
+list-style-type: none;
+list-style-image:url(ok.png);
+margin: 5% 5% auto 5%;
+}
+li{
+float:left;
+margin-left: 4em;
+}
+li:hover{
+background-color: #000;
+color:#fff;
+}

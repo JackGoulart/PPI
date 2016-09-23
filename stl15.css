@@ -1,0 +1,26 @@
+div{
+  border: solid 2px #cecece;
+}
+
+#container{
+  border: none;
+  width: 920px;
+  margin: 0 auto;
+}
+#conteudo{
+  width: 552px;
+  height: 300px;
+  float: left;
+  background-color: blue;
+}
+#lateral{
+  width: 250px;
+  height: 300px;
+  float: right;
+  background-color: green;
+}
+
+#rodape{
+  clear: both;
+  background-color: gray;
+}

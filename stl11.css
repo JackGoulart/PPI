@@ -1,0 +1,11 @@
+#borda{
+  background-color: #3498DB ;
+  width: 250px;
+  height: 150px;
+  padding: 16px;
+  border: solid 5px #2ECC71;
+  border-top-width:10px;
+  border-left-width: 20px;
+  border-bottom-width: 5px;
+  border-right-width: 0px;
+}

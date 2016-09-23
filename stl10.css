@@ -1,0 +1,9 @@
+body{
+margin: 0;
+}
+.caixa{
+  background-color: #CBD9E4;
+  width: 400px;
+  height: 200px;
+  padding: 50px;
+}

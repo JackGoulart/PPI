@@ -1,0 +1,15 @@
+a{
+  text-decoration:none;
+  color: #000;
+  background-color: #dddddd;
+  border: 1px solid black;
+  width: 190px;
+  display: block;
+  padding: 5px 7px;
+  text-align: center;
+}
+
+a:hover{
+  background-color: #000;
+  color: #dddddd;
+}
