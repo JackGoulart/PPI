@@ -1,0 +1,17 @@
+div{
+  width: 200px;
+  height: 100px;
+}
+.caixa1{
+  margin-top: 86;
+  border: solid 1px red;
+  position: relative;
+  top: 60px;
+  left: 40px;
+}
+.caixa2{
+  position: absolute;
+  top:40;
+  left: 20px;
+  border: solid 1px green;
+}

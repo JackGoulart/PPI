@@ -1,0 +1,11 @@
+div{
+  border: solid 1px #cecece;
+  height: 60px;
+  width: 400px;
+}
+.caixa2{
+  position: relative;
+  top: 20px;
+  left: 60px;
+  background-color: green;
+}
