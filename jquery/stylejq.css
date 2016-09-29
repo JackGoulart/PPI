@@ -1,0 +1,27 @@
+span {
+    margin: 0.1em;
+    border: solid 3px black;
+    padding: 0.2em;
+    width: 200px;
+    display: block;
+    color: green;
+    text-decoration: bold;
+    background: #bfe2bf;
+    font-size: 2em;
+    text-align: center;
+}
+
+span:hover {
+    color: #000000;
+    background: #cccccc;
+}
+
+#msg {
+    margin: 1em;
+    padding: 1em;
+    line-height: 30px;
+    width: 200px;
+    background: #deebf5;
+    border: dashed 3px black;
+    text-align: justify;
+}

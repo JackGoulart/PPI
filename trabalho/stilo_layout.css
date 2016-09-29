@@ -1,0 +1,115 @@
+#container{
+   max-width:1400px;
+   margin-top:1px;
+}
+
+body{
+ font-family: Arial, Helvetica, Verdana, Sans-serif;
+  font-size: 12;
+  color: black;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
+#menu{
+    background: black;
+    font-size: 0.9em;
+    border: 2px solid;
+    border-radius: 20px 20px;
+    max-width:1400px;
+    margin-top:5px;
+
+}
+#menu a:hover,  #rodape a:hover{
+background-color:black;
+font-size:12.75px;
+}
+#menu a, #rodape a{
+    color: floralwhite;
+    margin-right: 20px;
+}
+
+
+#cabecalho{
+    height: 320px;
+    background:url("asssa.png");
+    align-self: center;
+
+
+}
+
+
+#cabecalho .img2{
+    float: right;
+}
+
+#conteudo{
+/*    background: #004eff;*/
+    margin-right: 150px;
+    margin-left: 80px;
+    width:580;
+    margin-top:5px
+}
+
+#conteudo .img3{
+
+    margin-left: 240px;
+
+}
+#conteudo h2{
+    text-align: center;
+}
+
+#conteudo .img4{
+     margin-left: 240px;
+}
+
+
+
+#sidebar1{
+/*    background: #ff00e2;*/
+     float: left;
+     max-width: 180px;
+     line-height: 18px;
+     margin-top: 5px;
+     margin: 10px;
+     box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
+
+}
+
+#sidebar1 h2{
+   margin-top: 180px;
+  text-align: center;
+}
+#sidebar2 .imgs{
+
+
+}
+
+#sidebar2{
+/*    background: green;*/
+    float: right;
+    width: 180px;
+    line-height: 18px;
+    margin-top:5px;
+    margin: 10px;
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
+
+}
+#sidebar2 h2{
+   margin-top: 180px;
+  text-align: center;
+}
+
+#rodape {
+    border: 2px solid;
+    border-radius: 20px 20px;
+    max-width: 1400px;
+    margin-top: 5px;
+    background: black;
+    clear: both;
+}
+#rodape a{
+     margin-left: 10px;
+}

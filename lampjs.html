@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lamp</title>
+    <style >
+        #container{
+            background: #94e6ff ;
+        }
+        #lamp{
+            background: #ffffff ;
+        }
+    
+    </style>
+</head>
+<body>
+   <div id="container">
+    <h1>What can JavaScript Do?</h1>
+    <p>JavaScript can change HTML attributes.</p>
+    <p>In this case JavaScript changes the src (source) attribute of an image.</p>
+    <p>Pass mouse above on lamp to light</p>
+    <div id="lamp" onmouseover="document.getElementById('myImage').src='pic_bulbon.gif'">
+    <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'" >Turn on the light</button>
+    <img id="myImage" src="pic_bulboff.gif"  style="width:100px">
+    <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'" >Turn off the light</button>
+    </div>
+    <div id="other">
+        Build in
+    </div>
+    </div>
+</body>
+</html>
+

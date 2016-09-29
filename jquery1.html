@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Jquery</title>
+     <script type="text/jscript">
+        window.onload = function(){
+        document.getElementsByTagName("a")[0].onclick= alterarTitulo;
+        }
+        function alterarTitulo(){
+         document.getElementById('titulo').style.color='#0000ff';
+        }
+     </script>
+</head>
+<body>
+   <h1 id="titulo">Olá Leo</h1>
+    <a href="#">Executar Jquery</a>
+</body>
+</html>
