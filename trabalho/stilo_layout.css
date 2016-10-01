@@ -35,13 +35,20 @@ font-size:12.75px;
     height: 320px;
     background:url("asssa.png");
     align-self: center;
+    
 
 
 }
 
 
-#cabecalho .img2{
+#cabecalho .img1{
     float: right;
+    margin-top: 65px;
+}
+
+#cabecalho .img2{
+    float: left;
+    margin-top: 65px;
 }
 
 #conteudo{
@@ -82,10 +89,7 @@ font-size:12.75px;
    margin-top: 180px;
   text-align: center;
 }
-#sidebar2 .imgs{
 
-
-}
 
 #sidebar2{
 /*    background: green;*/
@@ -112,4 +116,12 @@ font-size:12.75px;
 }
 #rodape a{
      margin-left: 10px;
+}
+#rodape p{
+    color: floralwhite;
+    text-align: center;
+}
+#rodape img{
+    margin-left: 10px;
+    float: right;
 }

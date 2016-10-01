@@ -1,0 +1,44 @@
+*{
+margin:0;
+padding:0;
+text-decoration:none;
+list-style:none;
+font-size:100%;
+font-family: tahoma;
+}
+#menu{
+width:100%;
+height:40px;
+position:relative;
+background:#000000;
+overflow:visible;/*pesquisar o que é isso*/
+box-shadow:0 0 10px #000000;
+}
+
+
+.menu{
+width:960px;
+position: relative;
+margin: 0 auto;
+}
+#menu li{
+width:150px;
+height:40px;
+position:relative;
+float:left;
+line-height:40px;
+background-color:#000000;
+text-align:center;
+}
+
+#menu li a{
+color: #ffffff;
+}
+#menu ul li:hover{
+background-color:#666666;
+}
+.sub-sub-menu{
+position:relative;
+left:150px;
+top:-40px;
+}
